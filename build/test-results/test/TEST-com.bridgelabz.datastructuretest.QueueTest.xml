@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.datastructuretest.QueueTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-28T08:08:57" hostname="LAPTOP-2B0EPGRS" time="0.059">
+<testsuite name="com.bridgelabz.datastructuretest.QueueTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-28T08:20:56" hostname="LAPTOP-2B0EPGRS" time="0.085">
   <properties/>
-  <testcase name="given3Integers_WhenAddedToQueue_ShouldPassTheTest()" classname="com.bridgelabz.datastructuretest.QueueTest" time="0.059"/>
+  <testcase name="given3IntegersInQueue_WhenDequeue_ShouldHaveFirstAddedNode()" classname="com.bridgelabz.datastructuretest.QueueTest" time="0.085"/>
   <system-out><![CDATA[My Nodes : 56->30->70
+My Nodes : 30->70
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
