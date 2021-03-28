@@ -6,3 +6,5 @@ com/bridgelabz/datastructure/INode.java
  com.bridgelabz.datastructure.INode
 com/bridgelabz/datastructure/MyStack.java
  com.bridgelabz.datastructure.MyStack
+com/bridgelabz/datastructure/MyQueue.java
+ com.bridgelabz.datastructure.MyQueue

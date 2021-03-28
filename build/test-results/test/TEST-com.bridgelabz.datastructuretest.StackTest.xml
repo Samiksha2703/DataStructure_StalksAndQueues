@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.datastructuretest.StackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-28T07:14:49" hostname="LAPTOP-2B0EPGRS" time="0.067">
-  <properties/>
-  <testcase name="given3NumbersInStack_WhenPoped_ShouldMatchWithLastAddedNode()" classname="com.bridgelabz.datastructuretest.StackTest" time="0.067"/>
-  <system-out><![CDATA[My Nodes : 30->70
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

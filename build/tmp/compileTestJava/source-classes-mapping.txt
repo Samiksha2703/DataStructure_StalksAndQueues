@@ -1,2 +1,4 @@
 com/bridgelabz/datastructuretest/StackTest.java
  com.bridgelabz.datastructuretest.StackTest
+com/bridgelabz/datastructuretest/QueueTest.java
+ com.bridgelabz.datastructuretest.QueueTest
